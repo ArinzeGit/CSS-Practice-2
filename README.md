@@ -1,4 +1,5 @@
 # CSS Practice 2
+![](assets/CSS2Screenshot.PNG)
 ## Context and Description
 This project contains a table that responds to hover and click, a fixed button, audio, iframe and a CSS design using Flexbox. I used this project to practice HTML iframe element, CSS Flexbox, HTML tables, HTML audio elements and HTML pseudo-class.
 ## How to run
